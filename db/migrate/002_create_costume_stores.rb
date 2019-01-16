@@ -8,4 +8,4 @@ class CreateCostumes < ActiveRecord::Migration[5.1]
       t.timestamps
     end
   end
-end# Create your costume_stores migration here
+end
